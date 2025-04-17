@@ -28,8 +28,7 @@ Este projeto implementa, em Python, uma simulação de escalonamento de tarefas 
 
 1. Clone o repositório:
    ```bash
-   git clone <seu-repo-url>
-   cd <seu-projeto>
+   git clone https://github.com/guilhermeblmr/simulador-de-escalonador.git
    ```
 
 2. Certifique-se de que o Python 3.7 ou superior está instalado.
